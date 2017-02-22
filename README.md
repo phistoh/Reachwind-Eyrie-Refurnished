@@ -7,7 +7,11 @@ Put into your `..\Skyrim\Data` folder. To look at it ingame use the console comm
 ## File Description
 - **phi_reachwindeyrie.esp** is the mod itself
 
+## Screenshots
+[Click](http://imgur.com/a/WQXAz) for more screenshots
+
 ## Changes
+- **0.8.1 (Alpha)**: Finished entrance and cooking section; started sleeping section
 - **0.8 (Alpha)**: Initial upload
 
 ## To-Do
@@ -15,7 +19,8 @@ Put into your `..\Skyrim\Data` folder. To look at it ingame use the console comm
 - [x] Finish enchanting section
 - ~~[ ] Make the tower livable~~
 - [x] Finish cooking
-- [ ] Finish entrance
+- [x] Finish entrance
 - [ ] Finish sleeping
 - [ ] Blacksmithing crafting stations (basement/outside)
 - [ ] Link cell with actual door in Tamriel worldspace
+- [ ] Optimize performance
