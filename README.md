@@ -8,8 +8,7 @@ Put into your `..\Skyrim\Data` folder. To look at it ingame use the console comm
 - **phi_reachwindeyrie.esp** is the mod itself
 
 ## Screenshots
-![Entrance](https://cloud.githubusercontent.com/assets/23210043/23203170/ade63ca8-f8e1-11e6-9c6d-3671861869f5.jpg)![Alchemy](https://cloud.githubusercontent.com/assets/23210043/23203169/ade373f6-f8e1-11e6-94fe-956fdf34a779.jpg)
-![Enchanting](https://cloud.githubusercontent.com/assets/23210043/23203167/ade1e39c-f8e1-11e6-966b-1cd0e3140022.jpg)![Eating](https://cloud.githubusercontent.com/assets/23210043/23203168/ade349ee-f8e1-11e6-83f0-bf3465ee0b60.jpg)
+![header](https://cloud.githubusercontent.com/assets/23210043/23203553/4a06aef0-f8e3-11e6-9b47-46f683711938.png)
 
 [Click](http://imgur.com/a/WQXAz) for more screenshots
 
