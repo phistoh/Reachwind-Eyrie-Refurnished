@@ -13,6 +13,7 @@ Put into your `..\Skyrim\Data` folder. To look at it ingame use the console comm
 [Click](http://imgur.com/a/WQXAz) for more screenshots
 
 ## Changes
+- **0.8.2 (Alpha)**: Finished sleeping section; Finished blacksmith crafting (except sharpening wheel)
 - **0.8.1 (Alpha)**: Finished entrance and cooking section; started sleeping section
 - **0.8 (Alpha)**: Initial upload
 
@@ -22,7 +23,7 @@ Put into your `..\Skyrim\Data` folder. To look at it ingame use the console comm
 - ~~[ ] Make the tower livable~~
 - [x] Finish cooking
 - [x] Finish entrance
-- [ ] Finish sleeping
-- [ ] Blacksmithing crafting stations (basement/outside)
+- [x] Finish sleeping
+- [x] Blacksmithing crafting stations ~~(basement/outside)~~
 - [ ] Link cell with actual door in Tamriel worldspace
 - [ ] Optimize performance
